@@ -1,2 +1,2 @@
 # Artificial Inteligence Works
-Work developed in Artificial Intelligence class
+Some of the work developed in Artificial Intelligence class.
